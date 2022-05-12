@@ -1,8 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <h2>Dashboard</h2>
-<img src="screenshots/dashboard.jpg" />
+<p><img src="screenshots/dashboard.png" /></p>
 
+
+<h2>Product</h2>
+<p><img src="screenshots/products.png" /></p>
+
+
+<h2>Dashboard</h2>
+<p><img src="screenshots/inbox.png" /></p>
 ## Available Scripts
 
 In the project directory, you can run:
