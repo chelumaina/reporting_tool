@@ -68,10 +68,10 @@ function RoutingDoc() {
                                     },
                                     customScrollbars: true,
                                     theme           : {
-                                        main   : 'default',
-                                        navbar : 'mainThemeDark',
-                                        toolbar: 'mainThemeLight',
-                                        footer : 'mainThemeDark'
+                                        main   : 'light2',//'default',
+                                        navbar : 'light2',//'mainThemeDark',
+                                        toolbar: 'light2',//'mainThemeLight',
+                                        footer : 'light2',//'mainThemeDark'
                                     }
                                 },
                                 routes  : [

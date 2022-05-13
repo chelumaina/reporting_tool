@@ -2,7 +2,7 @@
 module.exports = {
 	purge: [],
 	presets: [],
-	darkMode: class, // or 'media' or 'class'
+	darkMode: 'class', // or 'media' or 'class'
 	theme: {
 		screens: {
 			sm: '600px',

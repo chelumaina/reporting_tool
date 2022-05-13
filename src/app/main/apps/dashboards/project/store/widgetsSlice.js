@@ -8,6 +8,13 @@ export const getWidgets = createAsyncThunk('projectDashboardApp/widgets/getWidge
 	return data;
 });
 
+export const getCounties = createAsyncThunk('projectDashboardApp/widgets/getCounties', async () => {
+	const response = await axios.get('/api/project-dashboard-app/widgets');
+	const data = await response.data;
+
+	return data;
+});
+
 const widgetsAdapter = createEntityAdapter({});
 
 export const { selectEntities: selectWidgets, selectById: selectWidgetById } = widgetsAdapter.getSelectors(

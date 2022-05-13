@@ -6,7 +6,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import _ from '@lodash';
 import reducer from './store';
 import { selectWidgetsEntities, getWidgets } from './store/widgetsSlice';
-import Widget1 from './widgets/Widget1';
+// import Widget1 from './widgets/Widget1';
 import Widget2 from './widgets/Widget2';
 import Widget3 from './widgets/Widget3';
 import Widget4 from './widgets/Widget4';
@@ -28,9 +28,13 @@ function AnalyticsDashboardApp() {
 		return null;
 	}
 
+	console.log("TEST TEST");
+	console.log(widgets.widget1);
+	console.log("WEWE");
+
 	return (
 		<div className="w-full">
-			<Widget1 data={widgets.widget1} />
+			{/* <Widget1 data={widgets.widget1} /> */}
 
 			<FuseAnimate animation="transition.slideUpIn" delay={200}>
 				<div className="flex flex-col md:flex-row sm:p-8 container">
