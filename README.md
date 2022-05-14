@@ -1,15 +1,47 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <h2>Dashboard</h2>
-<p><img src="screenshots/dashboard.png" /></p>
-
-
+<p><img src="screenshots/project_dashboard.png" /></p>
+<p></p>
+<p></p>
+<p></p>
 <h2>Product</h2>
 <p><img src="screenshots/products.png" /></p>
+<p></p>
+<p></p>
+<p></p>
+<h2>Contacts</h2>
+<p><img src="screenshots/contacts.png" /></p>
+<p></p>
+<p></p>
+<p></p>
+<h2>Invoices</h2>
+<p><img src="screenshots/invoices.png" /></p>
+<p></p>
+<p></p>
+<p></p>
+<h2>Profile</h2>
+<p><img src="screenshots/profiles.png" /></p>
+<p></p>
+<p></p>
+<p></p>
+<h2>Inbox</h2>
+<p><img src="screenshots/project_inbox.png" /></p>
+<p></p>
+<p></p>
+<p></p>
+<h2>Project Page</h2>
+<p><img src="screenshots/project_page.png" /></p>
+<p></p>
+<p></p>
+<p></p>
+<h2>Documents</h2>
+<p><img src="screenshots/documents.png" /></p>
+<p></p>
+<p></p>
+<p></p>
 
 
-<h2>Dashboard</h2>
-<p><img src="screenshots/inbox.png" /></p>
 ## Available Scripts
 
 In the project directory, you can run:
